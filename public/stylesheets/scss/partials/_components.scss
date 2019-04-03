@@ -1,0 +1,22 @@
+.hero {
+    background: url(../../../images/bg.jpg);
+    background-size: cover;
+
+    &-nav {
+        text-align: center;
+        width: 100%;
+        background: rgba(0,0,0,0.5);
+
+        a {
+            color: white;
+            padding: 0 1rem 0 1rem;
+            font-size: 1rem;
+        }
+    }
+
+    &-text {
+        color: white;
+        padding: 10rem 0 10rem 0;
+        font-size: 5rem;
+    }
+}

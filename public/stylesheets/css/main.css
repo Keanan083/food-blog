@@ -1,0 +1,34 @@
+.hero {
+  background: url(../../../images/bg.jpg);
+  background-size: cover; }
+  .hero-nav {
+    text-align: center;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5); }
+    .hero-nav a {
+      color: white;
+      padding: 0 1rem 0 1rem;
+      font-size: 1rem; }
+  .hero-text {
+    color: white;
+    padding: 10rem 0 10rem 0;
+    font-size: 5rem; }
+
+body {
+  margin: 0;
+  font-family: 'Lora', serif; }
+
+a {
+  text-decoration: none; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Poiret One', cursive;
+  text-transform: uppercase;
+  text-align: center; }
+
+/*# sourceMappingURL=main.css.map */
